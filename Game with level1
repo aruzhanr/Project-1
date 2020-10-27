@@ -86,7 +86,7 @@ while done3:
     print("ok")
  except FileNotFoundError:
      level=1
-     continue
+    
      
  while done2==True:
         
