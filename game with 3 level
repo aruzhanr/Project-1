@@ -121,7 +121,7 @@ while done3:
  city=pygame.image.load("city.jpg")
  lock=pygame.image.load("lock.png")
  boat=pygame.image.load("boat.jpg")
- castle=pygame.image.load("castle.png")
+ castle=pygame.image.load("castle.jpg")
  city= pygame.transform.scale(city, (150,150))
  lock= pygame.transform.scale(lock, (150,150))
  boat= pygame.transform.scale(boat, (150,150))
